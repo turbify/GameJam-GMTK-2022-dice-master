@@ -1,0 +1,4 @@
+repository "GameJam072022@Kupsztal_Gejms@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bf5d0a37715008468c4264835bb1fb9, type: 3}
+  m_Name: dice_walls
+  m_EditorClassIdentifier: 
+  gfx:
+  - {fileID: 21300000, guid: 49b0996e31b40f44cb84ecd5f3a995f5, type: 3}
+  - {fileID: 21300000, guid: 10912bd4d646f6649b1c5407de7ce9b6, type: 3}
+  - {fileID: 21300000, guid: d22823697f660f24a9c475bad3cc0a8b, type: 3}
+  - {fileID: 21300000, guid: cf76e23376c68974d8ab3a848853c138, type: 3}
+  - {fileID: 21300000, guid: c9dfdded8f8925142bf0da29617602f9, type: 3}
+  - {fileID: 21300000, guid: 327b2a43669d8db4297a8e8970d89a7f, type: 3}
+  - {fileID: 21300000, guid: a2cc6fabb13e6df45a7f9e66ba1f03a8, type: 3}
+  - {fileID: 21300000, guid: 402b2f96cb5873f42a9b8c78ea42b0cf, type: 3}
+  - {fileID: 21300000, guid: 9cd74e85906cd364faa36da0aac90b61, type: 3}
